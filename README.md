@@ -1,12 +1,48 @@
-### Olá! Sou o Valdir e novo por aqui... 
+# Valdir Filho
 
-Engenheiro eletricista formado no IFSC, atualmente aprofundando meus conhecimentos no campo da engenharia biomédica através de um mestrado na UFSC.
+**Electrical Engineer** | **MSc Student in Biomedical Engineering**  
+**Research & Development | AI in Healthcare | Neuromorphic Computing**
 
-⚡ Meu caminho na engenharia elétrica me proporcionou uma base em conceitos técnicos e práticos, mas foi no campo da programação e IA que descobri uma das minhas áreas favoritas.
+---
 
-⚕️ O interesse atual gira em torno da aplicação de IA no campo da engenharia biomédica, onde busco combinar as habilidades de engenharia com a programação para contribuir com inovações significativas na área da saúde. 
+## 🧠 About Me
 
-🤖 Estou constantemente aprendendo, se especializando e explorando novas tecnologias no mundo :)
+Electrical Engineer graduated from IFSC and currently pursuing a master's degree in Biomedical Engineering at UFSC, where I focus on developing technologies for healthcare. My main interest lies in **research and development (R&D)**, exploring the intersection of **engineering, artificial intelligence, and neuroscience** to create innovative solutions in the biomedical field.
+
+With over three years of experience at **TeraSolar**, I gained solid expertise in solar energy and technical project execution. However, it was through discovering the transformative power of **machine learning applied to healthcare** that I redirected my career path toward tech-driven impact in the health sector.
+
+My current research involves the study and development of **neuromorphic models and algorithms** inspired by brain function, using frameworks such as **Intel's Lava** for real-time and energy-efficient biomedical applications.
+
+---
+
+## 🔬 Areas of Interest
+
+- **Neuromorphic Computing and Spiking Neural Networks (SNNs)**
+  - Models inspired by neurophysiology and sensory encoding
+  - Simulation using frameworks like Intel's Lava
+  - Biomedical applications in real-time and low-power environments
+
+- **AI for Clinical Engineering and Digital Health**
+  - Detection and analysis of adverse medical events
+  - Intelligent monitoring systems for homecare
+  - Diagnostic support using supervised learning models
+
+- **Biomedical and Industrial Signal Processing**
+  - Time-series analysis using MATLAB and Python
+  - Feature extraction from vibration and RUL signals
+  - Classification and prediction in noisy environments
+
+- **Deep Learning in Medical Imaging**
+  - CNNs applied to PET/MRI for neurodegenerative disease detection
+  - Image segmentation, classification, and reconstruction
+  - Performance evaluation with clinical metrics (sensitivity, AUC)
+
+- **MLOps and Deployment of Health AI Solutions**
+  - First steps with Docker, CI/CD, and FastAPI
+  - Integration of AI pipelines into medical devices
+  - Interest in AWS, experiment tracking, and reproducibility
+
+
 
 <div style="display: inline_block"><br>
   
