@@ -1,10 +1,3 @@
-# Valdir Filho
-
-**Electrical Engineer** | **MSc Student in Biomedical Engineering**  
-**Research & Development | AI in Healthcare | Neuromorphic Computing**
-
----
-
 ## 🧠 About Me
 
 Electrical Engineer graduated from IFSC and currently pursuing a master's degree in Biomedical Engineering at UFSC, where I focus on developing technologies for healthcare. My main interest lies in **research and development (R&D)**, exploring the intersection of **engineering, artificial intelligence, and neuroscience** to create innovative solutions in the biomedical field.
