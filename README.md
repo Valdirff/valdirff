@@ -1,10 +1,12 @@
 ## 🧠 About Me
 
-Electrical Engineer graduated from IFSC and currently pursuing a master's degree in Biomedical Engineering at UFSC, where I focus on developing technologies for healthcare. My main interest lies in **research and development (R&D)**, exploring the intersection of **engineering, AI, and neuroscience** to create innovative solutions in the biomedical field.
+Data Scientist with a background in Electrical Engineering and currently pursuing a Master’s degree in Biomedical Engineering. I work on solving real-world problems through data, combining statistical modeling, time series analysis, signal processing, and machine learning when appropriate.
 
-Over the course of my academic and research trajectory, I've worked on projects that integrate **AI with biomedical and clinical engineering**, addressing real-world challenges such as **adverse event analysis**, **homecare optimization**, and **medical diagnostics**. My experience spans from **signal processing** (vibration and biosignals), to the application of **DL models** for image classification. I've also been developing **web APIs and mobile applications**, alongside exploring early MLOps practices to make AI pipelines reproducible and deployable within healthcare contexts.
+My experience includes developing end-to-end solutions, from data acquisition and preprocessing to modeling and deployment. I have worked on predictive maintenance and fault detection in industrial systems, as well as data-driven applications in healthcare.
 
-My current research involves the study and development of **neuromorphic models and algorithms** inspired by brain function, using frameworks such as **Intel's Lava** for real-time and energy-efficient biomedical applications.
+I have also developed computer vision solutions for industrial inspection and applied large language models (LLMs) to generate clinical insights from structured data.
+
+My work bridges engineering and data science, with a focus on building robust, scalable, and practical solutions.
 
 ---
 
@@ -19,15 +21,3 @@ My current research involves the study and development of **neuromorphic models 
 </div>
 <!--
 **Valdirff/valdirff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
