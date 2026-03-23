@@ -9,6 +9,7 @@ My experience includes developing end-to-end pipelines, from data acquisition an
 I have also developed computer vision solutions for industrial inspection and explored the use of large language models (LLMs) to generate clinically relevant insights from structured health data.
 
 Overall, my work sits at the intersection of engineering and data science, with a strong focus on building scalable, technically grounded, and impactful solutions.
+
 ---
 
 <div style="display: inline_block"><br>
