@@ -1,10 +1,10 @@
-## Data Scientist | Predictive Maintenance | Time Series | AI in Healthcare | Neuromorphic Computing
+## Data Scientist | Predictive Modeling | Electrical Engineering
 
 Data Scientist with a background in Electrical Engineering and currently pursuing a Master’s degree in Biomedical Engineering. I specialize in solving real-world problems through data, focusing on predictive modeling, time series analysis, and signal processing.
 
 ---
 
-## Core Areas
+# Core Areas
 
 - **Predictive Maintenance & Industrial AI**
   - Remaining Useful Life (RUL)
@@ -23,7 +23,7 @@ Data Scientist with a background in Electrical Engineering and currently pursuin
 
 ---
 
-## What I Do
+# What I Do
 
 I design and implement **end-to-end data-driven solutions**, including:
 
@@ -37,16 +37,12 @@ My work emphasizes **robustness, interpretability, and real-world applicability*
 
 ---
 
-## Current Interests
+# Current Interests
 
 - Real-time intelligent systems  
 - Neuromorphic computing and spiking neural networks  
 - Hybrid approaches combining physics, signals, and machine learning  
 - AI for high-impact industrial and healthcare applications  
-
----
-
-## 🛠️ Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
