@@ -8,9 +8,9 @@ My work focuses on building robust and practical solutions for industrial and he
 
 ### Expertise
 
-- Predictive maintenance & industrial AI (RUL, fault detection, degradation modeling)  
+- Predictive maintenance & industrial systems (RUL, fault detection, degradation modeling)  
 - Healthcare & biomedical AI (signal analysis, clinical data, decision support)  
-- Machine learning & intelligent systems (end-to-end pipelines, real-time and neuromorphic systems)  
+- ML & Deep learning (end-to-end pipelines, real-time and neuromorphic systems)  
 
 ---
 
