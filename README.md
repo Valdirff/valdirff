@@ -1,10 +1,10 @@
 ## Data Scientist | Predictive Modeling | Electrical Engineering
 
-Data Scientist with a background in Electrical Engineering and currently pursuing a Master’s degree in Biomedical Engineering. I specialize in solving real-world problems through data, focusing on predictive modeling, time series analysis, and signal processing.
+Data Scientist with a background in Electrical Engineering and currently pursuing a Master’s degree in Biomedical Engineering. I work on solving real-world problems through data, combining machine learning, statistical modeling, time series analysis, and signal processing.
 
 ---
 
-# Core Areas
+### Core Areas
 
 - **Predictive Maintenance & Industrial AI**
   - Remaining Useful Life (RUL)
@@ -18,12 +18,12 @@ Data Scientist with a background in Electrical Engineering and currently pursuin
 
 - **Advanced AI & Systems**
   - End-to-end ML pipelines
-  - Deep Learning (CNNs, LSTM, Transformers)
+  - Machine Learning and Deep Learning (CNNs, LSTM, YOLO, SVM, KNN)
   - Neuromorphic computing (SNNs, Loihi, real-time systems)
 
 ---
 
-# What I Do
+### What I Do
 
 I design and implement **end-to-end data-driven solutions**, including:
 
@@ -37,7 +37,7 @@ My work emphasizes **robustness, interpretability, and real-world applicability*
 
 ---
 
-# Current Interests
+### Current Interests
 
 - Real-time intelligent systems  
 - Neuromorphic computing and spiking neural networks  
